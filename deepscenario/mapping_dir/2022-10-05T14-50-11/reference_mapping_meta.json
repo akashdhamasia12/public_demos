@@ -1,0 +1,12 @@
+{
+    "version": "1.4",
+    "ground": {
+        "file": "ground/ground.ply"
+    },
+    "mask": {
+        "file": "mask/mask.ply"
+    },
+    "keypoints": {
+        "file": "keypoints/keypoints.json"
+    }
+}

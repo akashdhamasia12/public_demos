@@ -1,0 +1,16 @@
+model:
+  name: hello_world
+  framework: tensorflow
+  inputs:
+  - x
+  outputs:
+  - Identity
+device: cpu
+evaluation:
+  accuracy:
+    metric:
+      topk: 1
+    iteration: -1
+    dataloader: null
+  performance:
+    dataloader: null

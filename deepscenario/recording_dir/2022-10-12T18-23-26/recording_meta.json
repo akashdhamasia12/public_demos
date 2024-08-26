@@ -1,0 +1,24 @@
+{
+    "version": "1.2",
+    "recording_file_names": [
+        "DJI_0032.MP4"
+    ],
+    "latitude": 48.166943,
+    "longitude": 11.583497,
+    "altitude": 110.8,
+    "image_width": 4096,
+    "image_height": 2160,
+    "frame_rate": 25,
+    "create_date": "2022-10-12",
+    "create_time": "18-23-26",
+    "reference_mapping_directory": "2022-10-05T14-50-11",
+    "calibration_file_names": [
+        "FF11876_HB-1_2022-10-05_15-58-19_DJI_0214.jpg"
+    ],
+    "usable_frames": [
+        0,
+        -1
+    ],
+    "intrinsic_matrix": null,
+    "distortion_coefficients": null
+}

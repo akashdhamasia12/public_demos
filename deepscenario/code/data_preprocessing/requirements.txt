@@ -1,0 +1,7 @@
+opencv-python
+piexif
+open3d
+filterpy
+torch
+kornia
+pyexiftool==0.4.11
